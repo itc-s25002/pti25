@@ -5,5 +5,3 @@ def omikuzi():
     #print(random.choice(kuji))
     return random.choice(kuji)
 
-omikuzi()
-print("結果は" + omikuzi() + "です")
